@@ -1,0 +1,6 @@
+C:\Users\anton\Desktop\3 курс\Тестирование\TDD\TDD\bin\Debug\TDD.dll
+C:\Users\anton\Desktop\3 курс\Тестирование\TDD\TDD\bin\Debug\TDD.pdb
+C:\Users\anton\Desktop\3 курс\Тестирование\TDD\TDD\obj\Debug\TDD.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\3 курс\Тестирование\TDD\TDD\obj\Debug\TDD.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\3 курс\Тестирование\TDD\TDD\obj\Debug\TDD.dll
+C:\Users\anton\Desktop\3 курс\Тестирование\TDD\TDD\obj\Debug\TDD.pdb

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\TDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56FF2B-74E1-47F1-92C3-1A71B91B731C}|TDD\\TDD.csproj|c:\\users\\anton\\desktop\\3 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\tdd\\tdd\\kolvoidushixchisel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56FF2B-74E1-47F1-92C3-1A71B91B731C}|TDD\\TDD.csproj|solutionrelative:tdd\\kolvoidushixchisel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF2B6D8-650D-4207-BC24-AFCD6CACCF4F}|TDDString.Tests\\TDDString.Tests.csproj|c:\\users\\anton\\desktop\\3 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\tdd\\tddstring.tests\\stringtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF2B6D8-650D-4207-BC24-AFCD6CACCF4F}|TDDString.Tests\\TDDString.Tests.csproj|solutionrelative:tddstring.tests\\stringtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56FF2B-74E1-47F1-92C3-1A71B91B731C}|TDD\\TDD.csproj|c:\\users\\anton\\desktop\\3 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\tdd\\tdd\\nahozdenie9simvola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56FF2B-74E1-47F1-92C3-1A71B91B731C}|TDD\\TDD.csproj|solutionrelative:tdd\\nahozdenie9simvola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56FF2B-74E1-47F1-92C3-1A71B91B731C}|TDD\\TDD.csproj|c:\\users\\anton\\desktop\\3 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\tdd\\tdd\\nahozdeniekolvoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56FF2B-74E1-47F1-92C3-1A71B91B731C}|TDD\\TDD.csproj|solutionrelative:tdd\\nahozdeniekolvoam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56FF2B-74E1-47F1-92C3-1A71B91B731C}|TDD\\TDD.csproj|c:\\users\\anton\\desktop\\3 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\tdd\\tdd\\kolvoslovvstorke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56FF2B-74E1-47F1-92C3-1A71B91B731C}|TDD\\TDD.csproj|solutionrelative:tdd\\kolvoslovvstorke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56FF2B-74E1-47F1-92C3-1A71B91B731C}|TDD\\TDD.csproj|c:\\users\\anton\\desktop\\3 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\tdd\\tdd\\korotkoeslovovstroke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56FF2B-74E1-47F1-92C3-1A71B91B731C}|TDD\\TDD.csproj|solutionrelative:tdd\\korotkoeslovovstroke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56FF2B-74E1-47F1-92C3-1A71B91B731C}|TDD\\TDD.csproj|c:\\users\\anton\\desktop\\3 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\tdd\\tdd\\kolvosimvstorke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56FF2B-74E1-47F1-92C3-1A71B91B731C}|TDD\\TDD.csproj|solutionrelative:tdd\\kolvosimvstorke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE56FF2B-74E1-47F1-92C3-1A71B91B731C}|TDD\\TDD.csproj|c:\\users\\anton\\desktop\\3 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\tdd\\tdd\\kolvochiselvstroke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE56FF2B-74E1-47F1-92C3-1A71B91B731C}|TDD\\TDD.csproj|solutionrelative:tdd\\kolvochiselvstroke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kolvoidushixchisel.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\TDD\\TDD\\Kolvoidushixchisel.cs",
+              "RelativeDocumentMoniker": "TDD\\Kolvoidushixchisel.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\TDD\\TDD\\Kolvoidushixchisel.cs",
+              "RelativeToolTip": "TDD\\Kolvoidushixchisel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T17:19:55.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nahozdeniekolvoam.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\TDD\\TDD\\Nahozdeniekolvoam.cs",
+              "RelativeDocumentMoniker": "TDD\\Nahozdeniekolvoam.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\TDD\\TDD\\Nahozdeniekolvoam.cs",
+              "RelativeToolTip": "TDD\\Nahozdeniekolvoam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:30:20.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nahozdenie9simvola.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\TDD\\TDD\\Nahozdenie9simvola.cs",
+              "RelativeDocumentMoniker": "TDD\\Nahozdenie9simvola.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\TDD\\TDD\\Nahozdenie9simvola.cs",
+              "RelativeToolTip": "TDD\\Nahozdenie9simvola.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:04:01.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kolvoslovvstorke.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\TDD\\TDD\\Kolvoslovvstorke.cs",
+              "RelativeDocumentMoniker": "TDD\\Kolvoslovvstorke.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\TDD\\TDD\\Kolvoslovvstorke.cs",
+              "RelativeToolTip": "TDD\\Kolvoslovvstorke.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:20:00.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringTests.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\TDD\\TDDString.Tests\\StringTests.cs",
+              "RelativeDocumentMoniker": "TDDString.Tests\\StringTests.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\TDD\\TDDString.Tests\\StringTests.cs",
+              "RelativeToolTip": "TDDString.Tests\\StringTests.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswFgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:15:10.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Korotkoeslovovstroke.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\TDD\\TDD\\Korotkoeslovovstroke.cs",
+              "RelativeDocumentMoniker": "TDD\\Korotkoeslovovstroke.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\TDD\\TDD\\Korotkoeslovovstroke.cs",
+              "RelativeToolTip": "TDD\\Korotkoeslovovstroke.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:02:14.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kolvochiselvstroke.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\TDD\\TDD\\Kolvochiselvstroke.cs",
+              "RelativeDocumentMoniker": "TDD\\Kolvochiselvstroke.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\TDD\\TDD\\Kolvochiselvstroke.cs",
+              "RelativeToolTip": "TDD\\Kolvochiselvstroke.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:32:08.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kolvosimvstorke.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\TDD\\TDD\\Kolvosimvstorke.cs",
+              "RelativeDocumentMoniker": "TDD\\Kolvosimvstorke.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\TDD\\TDD\\Kolvosimvstorke.cs",
+              "RelativeToolTip": "TDD\\Kolvosimvstorke.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:21:36.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
